@@ -1,0 +1,1 @@
+enum DtoType { FULL, WITH_PRODUCT, NO_JOIN }
